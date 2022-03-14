@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kg&#39;blog</title>
+  
+  <subtitle>分享与爱好</subtitle>
+  <link href="http://deadlykui.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://deadlykui.github.io/"/>
+  <updated>2022-03-14T05:48:38.123Z</updated>
+  <id>http://deadlykui.github.io/</id>
+  
+  <author>
+    <name>Kui Tom</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1</title>
+    <link href="http://deadlykui.github.io/2022/03/14/1/"/>
+    <id>http://deadlykui.github.io/2022/03/14/1/</id>
+    <published>2022-03-14T05:48:38.000Z</published>
+    <updated>2022-03-14T05:48:38.123Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://deadlykui.github.io/2022/03/14/hello-world/"/>
+    <id>http://deadlykui.github.io/2022/03/14/hello-world/</id>
+    <published>2022-03-14T05:37:18.575Z</published>
+    <updated>2022-03-14T05:37:18.575Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
