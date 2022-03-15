@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>WhitePenguin</title>
+  <title>W-Penguin</title>
   
-  <subtitle>give me a change</subtitle>
+  <subtitle>不失一个机会</subtitle>
   <link href="http://kgcom.xyz/atom.xml" rel="self"/>
   
   <link href="http://kgcom.xyz/"/>
