@@ -313,10 +313,10 @@ test一下加密性能
 <script src="/libs/cryptojs/crypto-js.min.js"></script>
 <script>
     (function() {
-        let pwd = 'a424cc93ce24f1400b28389834c1f606822f4a76728a190521d5d46ebca4aefd';
+        let pwd = '8721d1333b764926ff121fed87539c492af07cc3930258752fc3a26b33a91cd8';
         if (pwd && pwd.length > 0) {
-            if (pwd !== CryptoJS.SHA256(prompt('3.1415926gk')).toString(CryptoJS.enc.Hex)) {
-                alert('密码错误，将返回主页！');
+            if (pwd !== CryptoJS.SHA256(prompt('他是一个字符 - 你应该知道的')).toString(CryptoJS.enc.Hex)) {
+                alert('不会吧？ 这也能错？');
                 location.href = '/';
             }
         }
