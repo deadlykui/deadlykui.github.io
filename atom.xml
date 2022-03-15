@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>kg&#39;blog</title>
+  <title>WhitePenguin</title>
   
-  <subtitle>分享与爱好</subtitle>
+  <subtitle>give me a change</subtitle>
   <link href="http://kgcom.xyz/atom.xml" rel="self"/>
   
   <link href="http://kgcom.xyz/"/>
-  <updated>2022-03-14T05:48:38.123Z</updated>
+  <updated>2022-03-15T06:19:00.705Z</updated>
   <id>http://kgcom.xyz/</id>
   
   <author>
-    <name>Kui Tom</name>
+    <name>Kui Gong</name>
     
   </author>
   
@@ -21,11 +21,21 @@
     <link href="http://kgcom.xyz/2022/03/14/1/"/>
     <id>http://kgcom.xyz/2022/03/14/1/</id>
     <published>2022-03-14T05:48:38.000Z</published>
-    <updated>2022-03-14T05:48:38.123Z</updated>
+    <updated>2022-03-15T06:19:00.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;第一次写&quot;&gt;&lt;a href=&quot;#第一次写&quot; class=&quot;headerlink&quot;</summary>
+        
+      
     
     
     
     
+    <category term="回收站" scheme="http://kgcom.xyz/tags/%E5%9B%9E%E6%94%B6%E7%AB%99/"/>
     
   </entry>
   
