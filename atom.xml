@@ -6,7 +6,7 @@
   <link href="http://kgcom.xyz/atom.xml" rel="self"/>
   
   <link href="http://kgcom.xyz/"/>
-  <updated>2022-03-15T06:43:07.960Z</updated>
+  <updated>2022-03-20T07:48:48.914Z</updated>
   <id>http://kgcom.xyz/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CSS3新增了哪些新特性？</title>
+    <link href="http://kgcom.xyz/2022/03/20/css3-xin-te-xing/"/>
+    <id>http://kgcom.xyz/2022/03/20/css3-xin-te-xing/</id>
+    <published>2022-03-20T07:25:00.000Z</published>
+    <updated>2022-03-20T07:48:48.914Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.kgcom.xyz/source/images/1.png&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;一、是什么&quot;&gt;&lt;a href=&quot;#一、是什么&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="CSS3" scheme="http://kgcom.xyz/categories/CSS3/"/>
+    
+    
+    <category term="CSS3" scheme="http://kgcom.xyz/tags/CSS3/"/>
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="面试" scheme="http://kgcom.xyz/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>1</title>
