@@ -6,7 +6,7 @@
   <link href="http://kgcom.xyz/atom.xml" rel="self"/>
   
   <link href="http://kgcom.xyz/"/>
-  <updated>2022-03-20T08:41:30.193Z</updated>
+  <updated>2022-03-21T09:44:50.932Z</updated>
   <id>http://kgcom.xyz/</id>
   
   <author>
@@ -17,18 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="http://kgcom.xyz/2022/03/21/chun-css-lun-bo-tu/"/>
+    <id>http://kgcom.xyz/2022/03/21/chun-css-lun-bo-tu/</id>
+    <published>2022-03-21T09:45:34.971Z</published>
+    <updated>2022-03-21T09:44:50.932Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;纯CSS轮播图&quot;&gt;&lt;a href=&quot;#纯CSS轮播图&quot; class=&quot;headerlink&quot; title=&quot;纯CSS轮播图&quot;&gt;&lt;/a&gt;纯CSS轮播图&lt;/h1&gt;&lt;pre class=&quot;line-numbers language-html&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>CSS3新增了哪些新特性？</title>
     <link href="http://kgcom.xyz/2022/03/20/css3-xin-te-xing/"/>
     <id>http://kgcom.xyz/2022/03/20/css3-xin-te-xing/</id>
     <published>2022-03-20T07:25:00.000Z</published>
-    <updated>2022-03-20T08:41:30.193Z</updated>
+    <updated>2022-03-27T05:47:12.509Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://www.kgcom.xyz/medias/images/CSS/1.png&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;http://deadlykui.github.io/medias/images/CSS/1.png&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;一、是什么&quot;&gt;&lt;a href=&quot;#一、是什么&quot; class=&quot;headerlink&quot;</summary>
         
       
