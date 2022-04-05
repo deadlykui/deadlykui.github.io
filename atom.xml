@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>W-Penguin</title>
+  <title>K-Penguin</title>
   
   <subtitle>不失一个机会</subtitle>
   <link href="http://kgcom.xyz/atom.xml" rel="self"/>
   
   <link href="http://kgcom.xyz/"/>
-  <updated>2022-03-21T09:44:50.932Z</updated>
+  <updated>2022-04-05T08:53:54.648Z</updated>
   <id>http://kgcom.xyz/</id>
   
   <author>
@@ -15,6 +15,91 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Emmet：一个Html/Css快速编辑插件</title>
+    <link href="http://kgcom.xyz/2022/04/05/emmet-yi-ge-htmlcss-kuai-su-bian-ji-shen-qi-de-cha-jian/"/>
+    <id>http://kgcom.xyz/2022/04/05/emmet-yi-ge-htmlcss-kuai-su-bian-ji-shen-qi-de-cha-jian/</id>
+    <published>2022-04-05T08:44:00.000Z</published>
+    <updated>2022-04-05T08:53:54.648Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Emmet：一个Html-x2F-Css快速编辑插件&quot;&gt;&lt;a href=&quot;#Emmet：一个Html-x2F-Css快速编辑插件&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="插件" scheme="http://kgcom.xyz/categories/%E6%8F%92%E4%BB%B6/"/>
+    
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="插件" scheme="http://kgcom.xyz/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTML5+CSS3小实例：不偷看密码的超萌猫头鹰登录界面</title>
+    <link href="http://kgcom.xyz/2022/03/29/css-an-li-bu-tou-kan-mi-ma-de-chao-meng-mao-tou-ying-deng-lu-jie-mian/"/>
+    <id>http://kgcom.xyz/2022/03/29/css-an-li-bu-tou-kan-mi-ma-de-chao-meng-mao-tou-ying-deng-lu-jie-mian/</id>
+    <published>2022-03-29T03:30:00.000Z</published>
+    <updated>2022-03-29T03:32:29.210Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;HTML5-CSS3小实例：不偷看密码的超萌猫头鹰登录界面&quot;&gt;&lt;a href=&quot;#HTML5-CSS3小实例：不偷看密码的超萌猫头鹰登录界面&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="CSS3" scheme="http://kgcom.xyz/categories/CSS3/"/>
+    
+    
+    <category term="CSS3" scheme="http://kgcom.xyz/tags/CSS3/"/>
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="案例" scheme="http://kgcom.xyz/tags/%E6%A1%88%E4%BE%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTML5+CSS3小实例：不偷看密码的超萌猫头鹰登录界面</title>
+    <link href="http://kgcom.xyz/2022/03/29/flex-bu-ju/"/>
+    <id>http://kgcom.xyz/2022/03/29/flex-bu-ju/</id>
+    <published>2022-03-29T03:30:00.000Z</published>
+    <updated>2022-04-03T11:01:23.331Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;flex布局-详细讲解&quot;&gt;&lt;a href=&quot;#flex布局-详细讲解&quot; class=&quot;headerlink&quot; title=&quot;flex布局 - 详细讲解&quot;&gt;&lt;/a&gt;flex布局 - 详细讲解&lt;/h1&gt;&lt;h2 id=&quot;一、Flex布局是什么？&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="CSS3" scheme="http://kgcom.xyz/categories/CSS3/"/>
+    
+    
+    <category term="CSS3" scheme="http://kgcom.xyz/tags/CSS3/"/>
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="案例" scheme="http://kgcom.xyz/tags/%E6%A1%88%E4%BE%8B/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
@@ -69,8 +154,8 @@
   
   <entry>
     <title>1</title>
-    <link href="http://kgcom.xyz/2022/03/14/1/"/>
-    <id>http://kgcom.xyz/2022/03/14/1/</id>
+    <link href="http://kgcom.xyz/2022/03/14/ce-shi-jia-mi-xing/"/>
+    <id>http://kgcom.xyz/2022/03/14/ce-shi-jia-mi-xing/</id>
     <published>2022-03-14T05:48:38.000Z</published>
     <updated>2022-03-15T06:43:07.960Z</updated>
     
