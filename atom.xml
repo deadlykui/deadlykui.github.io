@@ -6,7 +6,7 @@
   <link href="http://kgcom.xyz/atom.xml" rel="self"/>
   
   <link href="http://kgcom.xyz/"/>
-  <updated>2022-04-05T10:00:35.052Z</updated>
+  <updated>2022-04-05T12:32:00.469Z</updated>
   <id>http://kgcom.xyz/</id>
   
   <author>
@@ -17,40 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Flex布局</title>
-    <link href="http://kgcom.xyz/2022/04/05/flex-bu-ju/"/>
-    <id>http://kgcom.xyz/2022/04/05/flex-bu-ju/</id>
-    <published>2022-04-05T09:59:01.000Z</published>
-    <updated>2022-04-05T10:00:35.052Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;flex布局-详细讲解&quot;&gt;&lt;a href=&quot;#flex布局-详细讲解&quot; class=&quot;headerlink&quot; title=&quot;flex布局 - 详细讲解&quot;&gt;&lt;/a&gt;flex布局 - 详细讲解&lt;/h1&gt;&lt;h2 id=&quot;一、Flex布局是什么？&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="CSS3" scheme="http://kgcom.xyz/categories/CSS3/"/>
-    
-    
-    <category term="CSS3" scheme="http://kgcom.xyz/tags/CSS3/"/>
-    
-    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="flex" scheme="http://kgcom.xyz/tags/flex/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Emmet：一个Html/Css快速编辑插件</title>
     <link href="http://kgcom.xyz/2022/04/05/emmet-yi-ge-htmlcss-kuai-su-bian-ji-shen-qi-de-cha-jian/"/>
     <id>http://kgcom.xyz/2022/04/05/emmet-yi-ge-htmlcss-kuai-su-bian-ji-shen-qi-de-cha-jian/</id>
     <published>2022-04-05T08:44:00.000Z</published>
-    <updated>2022-04-05T10:01:56.544Z</updated>
+    <updated>2022-04-05T12:32:00.469Z</updated>
     
     
       
@@ -77,7 +48,7 @@
     <link href="http://kgcom.xyz/2022/03/29/css-an-li-bu-tou-kan-mi-ma-de-chao-meng-mao-tou-ying-deng-lu-jie-mian/"/>
     <id>http://kgcom.xyz/2022/03/29/css-an-li-bu-tou-kan-mi-ma-de-chao-meng-mao-tou-ying-deng-lu-jie-mian/</id>
     <published>2022-03-29T03:30:00.000Z</published>
-    <updated>2022-04-05T10:04:24.089Z</updated>
+    <updated>2022-04-13T07:50:34.939Z</updated>
     
     
       
@@ -127,7 +98,7 @@
     <link href="http://kgcom.xyz/2022/03/20/css3-xin-te-xing/"/>
     <id>http://kgcom.xyz/2022/03/20/css3-xin-te-xing/</id>
     <published>2022-03-20T07:25:00.000Z</published>
-    <updated>2022-03-27T05:47:12.509Z</updated>
+    <updated>2022-04-13T07:50:28.634Z</updated>
     
     
       
@@ -180,7 +151,7 @@
     <link href="http://kgcom.xyz/2022/03/14/hello-world/"/>
     <id>http://kgcom.xyz/2022/03/14/hello-world/</id>
     <published>2022-03-14T05:37:18.575Z</published>
-    <updated>2022-03-14T05:37:18.575Z</updated>
+    <updated>2022-04-13T07:50:02.900Z</updated>
     
     
       
