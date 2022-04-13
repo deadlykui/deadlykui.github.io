@@ -6,7 +6,7 @@
   <link href="http://kgcom.xyz/atom.xml" rel="self"/>
   
   <link href="http://kgcom.xyz/"/>
-  <updated>2022-04-05T12:32:00.469Z</updated>
+  <updated>2022-04-13T13:55:23.048Z</updated>
   <id>http://kgcom.xyz/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HTML5+CSS3小实例：伸缩侧边栏</title>
+    <link href="http://kgcom.xyz/2022/04/13/css-an-li-shen-suo-ce-bian-lan/"/>
+    <id>http://kgcom.xyz/2022/04/13/css-an-li-shen-suo-ce-bian-lan/</id>
+    <published>2022-04-13T13:25:00.000Z</published>
+    <updated>2022-04-13T13:55:23.048Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;HTML5-CSS3小实例：伸缩侧边栏&quot;&gt;&lt;a href=&quot;#HTML5-CSS3小实例：伸缩侧边栏&quot; class=&quot;headerlink&quot; title=&quot;HTML5+CSS3小实例：伸缩侧边栏&quot;&gt;&lt;/a&gt;HTML5+CSS3小实例：伸缩侧边栏&lt;/h1&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="HTML+CSS案例" scheme="http://kgcom.xyz/categories/HTML-CSS%E6%A1%88%E4%BE%8B/"/>
+    
+    
+    <category term="CSS3" scheme="http://kgcom.xyz/tags/CSS3/"/>
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="案例" scheme="http://kgcom.xyz/tags/%E6%A1%88%E4%BE%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flex布局</title>
+    <link href="http://kgcom.xyz/2022/04/05/flex-bu-ju/"/>
+    <id>http://kgcom.xyz/2022/04/05/flex-bu-ju/</id>
+    <published>2022-04-05T09:59:01.000Z</published>
+    <updated>2022-04-12T05:57:45.251Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;flex布局-详细讲解&quot;&gt;&lt;a href=&quot;#flex布局-详细讲解&quot; class=&quot;headerlink&quot; title=&quot;flex布局 - 详细讲解&quot;&gt;&lt;/a&gt;flex布局 - 详细讲解&lt;/h1&gt;&lt;h2 id=&quot;一、Flex布局是什么？&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="CSS3" scheme="http://kgcom.xyz/categories/CSS3/"/>
+    
+    
+    <category term="CSS3" scheme="http://kgcom.xyz/tags/CSS3/"/>
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="flex" scheme="http://kgcom.xyz/tags/flex/"/>
+    
+    <category term="布局思想" scheme="http://kgcom.xyz/tags/%E5%B8%83%E5%B1%80%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>Emmet：一个Html/Css快速编辑插件</title>
@@ -124,34 +184,11 @@
   </entry>
   
   <entry>
-    <title>1</title>
-    <link href="http://kgcom.xyz/2022/03/14/ce-shi-jia-mi-xing/"/>
-    <id>http://kgcom.xyz/2022/03/14/ce-shi-jia-mi-xing/</id>
-    <published>2022-03-14T05:48:38.000Z</published>
-    <updated>2022-03-15T06:43:07.960Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;第一次写&quot;&gt;&lt;a href=&quot;#第一次写&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="回收站" scheme="http://kgcom.xyz/tags/%E5%9B%9E%E6%94%B6%E7%AB%99/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://kgcom.xyz/2022/03/14/hello-world/"/>
     <id>http://kgcom.xyz/2022/03/14/hello-world/</id>
     <published>2022-03-14T05:37:18.575Z</published>
-    <updated>2022-04-13T07:50:02.900Z</updated>
+    <updated>2022-04-13T13:33:33.533Z</updated>
     
     
       
