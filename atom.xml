@@ -6,7 +6,7 @@
   <link href="http://kgcom.xyz/atom.xml" rel="self"/>
   
   <link href="http://kgcom.xyz/"/>
-  <updated>2022-04-13T13:55:23.048Z</updated>
+  <updated>2022-04-15T12:47:05.182Z</updated>
   <id>http://kgcom.xyz/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Css基础 - CSS画基本图形</title>
+    <link href="http://kgcom.xyz/2022/04/15/shi-yong-css-hua-yi-xie-ji-ben-de-tu-xing/"/>
+    <id>http://kgcom.xyz/2022/04/15/shi-yong-css-hua-yi-xie-ji-ben-de-tu-xing/</id>
+    <published>2022-04-15T10:18:01.000Z</published>
+    <updated>2022-04-15T12:47:05.182Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;CSS画基本图形&quot;&gt;&lt;a href=&quot;#CSS画基本图形&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="CSS基础" scheme="http://kgcom.xyz/categories/CSS%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="CSS3" scheme="http://kgcom.xyz/tags/CSS3/"/>
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>HTML5+CSS3小实例：伸缩侧边栏</title>
