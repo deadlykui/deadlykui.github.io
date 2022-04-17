@@ -6,7 +6,7 @@
   <link href="http://kgcom.xyz/atom.xml" rel="self"/>
   
   <link href="http://kgcom.xyz/"/>
-  <updated>2022-04-15T12:47:05.182Z</updated>
+  <updated>2022-04-17T14:21:01.011Z</updated>
   <id>http://kgcom.xyz/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Css基础 - 单选框与复选框伪类的应用</title>
+    <link href="http://kgcom.xyz/2022/04/17/css-ji-chu-an-li-dan-xuan-kuang-he-fu-xuan-kuang-wei-lei-de-ying-yong/"/>
+    <id>http://kgcom.xyz/2022/04/17/css-ji-chu-an-li-dan-xuan-kuang-he-fu-xuan-kuang-wei-lei-de-ying-yong/</id>
+    <published>2022-04-17T04:15:00.000Z</published>
+    <updated>2022-04-17T14:21:01.011Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Css基础-单选框与复选框伪类的应用&quot;&gt;&lt;a href=&quot;#Css基础-单选框与复选框伪类的应用&quot; class=&quot;headerlink&quot; title=&quot;Css基础 - 单选框与复选框伪类的应用&quot;&gt;&lt;/a&gt;Css基础 -</summary>
+        
+      
+    
+    
+    
+    <category term="布局" scheme="http://kgcom.xyz/categories/%E5%B8%83%E5%B1%80/"/>
+    
+    
+    <category term="CSS3" scheme="http://kgcom.xyz/tags/CSS3/"/>
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="案例" scheme="http://kgcom.xyz/tags/%E6%A1%88%E4%BE%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Css基础 - CSS画基本图形</title>
@@ -108,7 +137,7 @@
     <link href="http://kgcom.xyz/2022/04/05/emmet-yi-ge-htmlcss-kuai-su-bian-ji-shen-qi-de-cha-jian/"/>
     <id>http://kgcom.xyz/2022/04/05/emmet-yi-ge-htmlcss-kuai-su-bian-ji-shen-qi-de-cha-jian/</id>
     <published>2022-04-05T08:44:00.000Z</published>
-    <updated>2022-04-05T12:32:00.469Z</updated>
+    <updated>2022-04-17T14:21:09.692Z</updated>
     
     
       
