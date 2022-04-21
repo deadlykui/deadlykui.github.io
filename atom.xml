@@ -18,8 +18,8 @@
   
   <entry>
     <title>Css基础 - 单选框与复选框伪类的应用</title>
-    <link href="http://kgcom.xyz/2022/04/17/css-ji-chu-an-li-dan-xuan-kuang-he-fu-xuan-kuang-wei-lei-de-ying-yong/"/>
-    <id>http://kgcom.xyz/2022/04/17/css-ji-chu-an-li-dan-xuan-kuang-he-fu-xuan-kuang-wei-lei-de-ying-yong/</id>
+    <link href="http://kgcom.xyz/2022/04/17/css-css-ji-chu-an-li-dan-xuan-kuang-he-fu-xuan-kuang-wei-lei-de-ying-yong/"/>
+    <id>http://kgcom.xyz/2022/04/17/css-css-ji-chu-an-li-dan-xuan-kuang-he-fu-xuan-kuang-wei-lei-de-ying-yong/</id>
     <published>2022-04-17T04:15:00.000Z</published>
     <updated>2022-04-17T14:21:01.011Z</updated>
     
@@ -47,8 +47,8 @@
   
   <entry>
     <title>Css基础 - CSS画基本图形</title>
-    <link href="http://kgcom.xyz/2022/04/15/shi-yong-css-hua-yi-xie-ji-ben-de-tu-xing/"/>
-    <id>http://kgcom.xyz/2022/04/15/shi-yong-css-hua-yi-xie-ji-ben-de-tu-xing/</id>
+    <link href="http://kgcom.xyz/2022/04/15/css-shi-yong-css-hua-yi-xie-ji-ben-de-tu-xing/"/>
+    <id>http://kgcom.xyz/2022/04/15/css-shi-yong-css-hua-yi-xie-ji-ben-de-tu-xing/</id>
     <published>2022-04-15T10:18:01.000Z</published>
     <updated>2022-04-15T12:47:05.182Z</updated>
     
@@ -74,8 +74,8 @@
   
   <entry>
     <title>HTML5+CSS3小实例：伸缩侧边栏</title>
-    <link href="http://kgcom.xyz/2022/04/13/css-an-li-shen-suo-ce-bian-lan/"/>
-    <id>http://kgcom.xyz/2022/04/13/css-an-li-shen-suo-ce-bian-lan/</id>
+    <link href="http://kgcom.xyz/2022/04/13/css-css-an-li-shen-suo-ce-bian-lan/"/>
+    <id>http://kgcom.xyz/2022/04/13/css-css-an-li-shen-suo-ce-bian-lan/</id>
     <published>2022-04-13T13:25:00.000Z</published>
     <updated>2022-04-13T13:55:23.048Z</updated>
     
@@ -103,8 +103,8 @@
   
   <entry>
     <title>Flex布局</title>
-    <link href="http://kgcom.xyz/2022/04/05/flex-bu-ju/"/>
-    <id>http://kgcom.xyz/2022/04/05/flex-bu-ju/</id>
+    <link href="http://kgcom.xyz/2022/04/05/css-flex-bu-ju/"/>
+    <id>http://kgcom.xyz/2022/04/05/css-flex-bu-ju/</id>
     <published>2022-04-05T09:59:01.000Z</published>
     <updated>2022-04-12T05:57:45.251Z</updated>
     
@@ -161,8 +161,8 @@
   
   <entry>
     <title>HTML5+CSS3小实例：不偷看密码的超萌猫头鹰登录界面</title>
-    <link href="http://kgcom.xyz/2022/03/29/css-an-li-bu-tou-kan-mi-ma-de-chao-meng-mao-tou-ying-deng-lu-jie-mian/"/>
-    <id>http://kgcom.xyz/2022/03/29/css-an-li-bu-tou-kan-mi-ma-de-chao-meng-mao-tou-ying-deng-lu-jie-mian/</id>
+    <link href="http://kgcom.xyz/2022/03/29/css-css-an-li-bu-tou-kan-mi-ma-de-chao-meng-mao-tou-ying-deng-lu-jie-mian/"/>
+    <id>http://kgcom.xyz/2022/03/29/css-css-an-li-bu-tou-kan-mi-ma-de-chao-meng-mao-tou-ying-deng-lu-jie-mian/</id>
     <published>2022-03-29T03:30:00.000Z</published>
     <updated>2022-04-13T07:50:34.939Z</updated>
     
@@ -190,8 +190,8 @@
   
   <entry>
     <title></title>
-    <link href="http://kgcom.xyz/2022/03/21/chun-css-lun-bo-tu/"/>
-    <id>http://kgcom.xyz/2022/03/21/chun-css-lun-bo-tu/</id>
+    <link href="http://kgcom.xyz/2022/03/21/css-chun-css-lun-bo-tu/"/>
+    <id>http://kgcom.xyz/2022/03/21/css-chun-css-lun-bo-tu/</id>
     <published>2022-03-21T09:45:34.971Z</published>
     <updated>2022-03-21T09:44:50.932Z</updated>
     
@@ -211,8 +211,8 @@
   
   <entry>
     <title>CSS3新增了哪些新特性？</title>
-    <link href="http://kgcom.xyz/2022/03/20/css3-xin-te-xing/"/>
-    <id>http://kgcom.xyz/2022/03/20/css3-xin-te-xing/</id>
+    <link href="http://kgcom.xyz/2022/03/20/css-css3-xin-te-xing/"/>
+    <id>http://kgcom.xyz/2022/03/20/css-css3-xin-te-xing/</id>
     <published>2022-03-20T07:25:00.000Z</published>
     <updated>2022-04-13T07:50:28.634Z</updated>
     
@@ -257,6 +257,143 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>HTTP协议 - 请求报文 - 响应报文</title>
+    <link href="http://kgcom.xyz/2021/09/16/http-xie-yi-qing-qiu-bao-wen-xiang-ying-bao-wen/"/>
+    <id>http://kgcom.xyz/2021/09/16/http-xie-yi-qing-qiu-bao-wen-xiang-ying-bao-wen/</id>
+    <published>2021-09-16T07:07:05.000Z</published>
+    <updated>2022-04-21T07:15:22.466Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;HTTP&quot;&gt;&lt;a href=&quot;#HTTP&quot; class=&quot;headerlink&quot; title=&quot;HTTP&quot;&gt;&lt;/a&gt;HTTP&lt;/h1&gt;&lt;p&gt;HTTP (hypertext transport</summary>
+        
+      
+    
+    
+    
+    <category term="协议" scheme="http://kgcom.xyz/categories/%E5%8D%8F%E8%AE%AE/"/>
+    
+    
+    <category term="协议" scheme="http://kgcom.xyz/tags/%E5%8D%8F%E8%AE%AE/"/>
+    
+    <category term="后端" scheme="http://kgcom.xyz/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ajax面试题</title>
+    <link href="http://kgcom.xyz/2021/09/15/ajax-fu-xi-ajax-yuan-sheng-dai-ma-han-mian-shi-ti/"/>
+    <id>http://kgcom.xyz/2021/09/15/ajax-fu-xi-ajax-yuan-sheng-dai-ma-han-mian-shi-ti/</id>
+    <published>2021-09-15T10:57:08.000Z</published>
+    <updated>2022-04-21T07:28:55.506Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;面试题&quot;&gt;&lt;a href=&quot;#面试题&quot; class=&quot;headerlink&quot; title=&quot;面试题&quot;&gt;&lt;/a&gt;面试题&lt;/h1&gt;&lt;p&gt;转载 —— &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Ajax" scheme="http://kgcom.xyz/categories/Ajax/"/>
+    
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Ajax" scheme="http://kgcom.xyz/tags/Ajax/"/>
+    
+    <category term="面试题" scheme="http://kgcom.xyz/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ajax学习 - 详解</title>
+    <link href="http://kgcom.xyz/2021/09/15/ajax-ajax-ke-cheng-xue-xi-xiang-jiang/"/>
+    <id>http://kgcom.xyz/2021/09/15/ajax-ajax-ke-cheng-xue-xi-xiang-jiang/</id>
+    <published>2021-09-15T10:57:08.000Z</published>
+    <updated>2022-04-21T07:29:02.112Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Ajax课程-解决跨域&quot;&gt;&lt;a href=&quot;#Ajax课程-解决跨域&quot; class=&quot;headerlink&quot; title=&quot;Ajax课程 - 解决跨域&quot;&gt;&lt;/a&gt;Ajax课程 - 解决跨域&lt;/h1&gt;&lt;h2 id=&quot;1-第一章-原生Ajax&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Ajax" scheme="http://kgcom.xyz/categories/Ajax/"/>
+    
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Ajax" scheme="http://kgcom.xyz/tags/Ajax/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Js原型链理解</title>
+    <link href="http://kgcom.xyz/2021/09/09/js-chong-fen-li-jie-js-yuan-xing-lian-han-mian-shi-ti/"/>
+    <id>http://kgcom.xyz/2021/09/09/js-chong-fen-li-jie-js-yuan-xing-lian-han-mian-shi-ti/</id>
+    <published>2021-09-09T04:21:05.000Z</published>
+    <updated>2022-04-21T07:23:41.986Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;http://statusproject.gitee.io/import-small-blog/static/Js-review/js%E5%8E%9F%E5%9E%8B-01.png&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Js" scheme="http://kgcom.xyz/categories/Js/"/>
+    
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Js" scheme="http://kgcom.xyz/tags/Js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue.js学习篇 - 课程介绍</title>
+    <link href="http://kgcom.xyz/2020/01/08/vue-vue-ke-cheng-jie-shao-quan-cheng/"/>
+    <id>http://kgcom.xyz/2020/01/08/vue-vue-ke-cheng-jie-shao-quan-cheng/</id>
+    <published>2020-01-08T12:02:08.000Z</published>
+    <updated>2022-04-21T07:28:37.488Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Vue课程介绍&quot;&gt;&lt;a href=&quot;#Vue课程介绍&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Vue" scheme="http://kgcom.xyz/categories/Vue/"/>
+    
+    
+    <category term="前端" scheme="http://kgcom.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="http://kgcom.xyz/tags/Vue/"/>
     
   </entry>
   
